@@ -1,0 +1,14 @@
+{
+    "demo": [
+      {
+        "id": 1,
+        "name": "Harry Potter and the Philosopher's Stone",
+        "cost": 520
+      },
+      {
+        "id": 2,
+        "name": "Alice's Adventures in Wonderland",
+        "cost": 340
+      }
+    ]
+  }
